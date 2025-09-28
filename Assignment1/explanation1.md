@@ -8,7 +8,7 @@ Write a C program to print your name without using the semicolon (;) character a
 - Put the printf() call inside the condition expression. The function executes and prints as part of evaluating the condition.
 
 ## Code
-See [code.c](./code.c)
+See [code1.c](./code1.c)
 
 ## Explanation
 - printf("Your Name\n") prints the name and returns the number of characters printed (>0) .
