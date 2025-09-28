@@ -1,2 +1,7 @@
 # C-Assignments
-All aaignments questions of C programming for 1st semester are present in this repository
+This repository contains my C programming assignments with explanations and images if needed for showing procedure .
+
+## Assignments
+- [Assignment 1](./Assignment1/explanation1.md)
+- [Assignment 2](./Assignment2/explanation2.md)
+- [Assignment 3](./Assignment3/explanation3.md)
